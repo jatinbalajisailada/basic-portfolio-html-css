@@ -10,4 +10,5 @@ Smooth scrolling and animations
 Contact form / Social media links
 Clean and minimal design
 
+You can get access to source code in main branch directly.
 Feel free to explore, clone, or contribute!
