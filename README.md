@@ -11,4 +11,5 @@ This is the source code for a BASIC portfolio website. Built to showcase skills,
 4. Clean and minimal design
 
 > You can get access to source code in main branch directly.
+
 Feel free to explore, clone, or contribute!
