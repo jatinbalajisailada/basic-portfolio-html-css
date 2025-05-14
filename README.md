@@ -5,10 +5,10 @@ This is the source code for a BASIC portfolio website. Built to showcase skills,
 2. CSS
 3. Responsive Design
 # Features:
-Responsive and mobile-friendly layout
-Smooth scrolling and animations
-Contact form / Social media links
-Clean and minimal design
+1. Responsive and mobile-friendly layout
+2. Smooth scrolling and animations
+3. Contact form / Social media links
+4. Clean and minimal design
 
-You can get access to source code in main branch directly.
+> You can get access to source code in main branch directly.
 Feel free to explore, clone, or contribute!
