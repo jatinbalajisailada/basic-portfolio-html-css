@@ -1,0 +1,93 @@
+.image {
+  position: relative;
+  width: 195px;
+  height: 195px;
+  background-image: url(https://c.animaapp.com/mal6b70h6zgkB9/img/image-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.aboutHeader .container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 70px;
+  padding: 120px 320px;
+  position: relative;
+  align-self: stretch;
+  background-color: #f9e6f0;
+}
+.aboutHeader .info{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.info .image{
+  margin-bottom: 20px;
+}
+.image-outline {
+  height: 195px;
+  border: 1.5px solid;
+  border-color: #2d2d2d;
+}
+.info .span{
+  font-weight: bold;
+  text-decoration: underline;
+}
+.aboutHeader .bio{
+  width: 515px;
+  line-height: 27px;
+}
+@media (max-width: 1065px){
+  .aboutHeader .container{
+    padding: 120px 200px;
+  }
+}
+@media (max-width: 800px){
+  .aboutHeader .container{
+    flex-direction: column;
+  }
+  .aboutHeader .bio{
+    width: 100%;
+  }
+}
+@media (max-width: 580px){
+  .aboutHeader .container{
+    padding: 120px 30px;
+    align-items: flex-start;
+  }
+}
+.aboutContent{
+  padding: 120px 320px;
+}
+.aboutContent .container{
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+.aboutContent .title{
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 1px;
+  color: #2B2B2B;
+  margin-bottom: 3em;
+}
+.aboutContent .coloredText{
+  background-color: #009379;
+  color: aliceblue;
+  padding: 5px 5px;
+}
+.aboutContent .paragraphWrapper{
+  padding: 5px 5px;
+  line-height: 27px;
+}
+@media (max-width: 1130px) {
+  .aboutContent{
+    padding: 120px 200px;
+  }
+}
+@media (max-width: 850px) {
+  .aboutContent{
+    padding: 120px 30px;
+  }
+}
